@@ -18,22 +18,7 @@
     // Override point for customization after application launch.
     //self.window.backgroundColor = [UIColor whiteColor];
     
-//GnetHomeViewController * homeViewController= [[GnetHomeViewController alloc] init];
-//homeViewController.title=@"主页";
-//    homeViewController.tabBarItem.title=@"主页";
-    
-//    GnetRankListTableViewController *ranklistController=[[GnetRankListTableViewController alloc] init];
-//    ranklistController.tabBarItem.title=@"排行榜";
-    
-    
-    //设置启动主视图控制器
-    //GnetMainTabBarController * mainTabBarController=[[GnetMainTabBarController alloc] init];
-    //mainTabBarController.viewControllers=@[ranklistController];
-// 
-//    NSInteger count=[mainTabBarController.viewControllers count];
-//    NSLog(@"11size = %d", count );
-    
-    //self.window.rootViewController=mainTabBarController;
+ 
     
    
 
