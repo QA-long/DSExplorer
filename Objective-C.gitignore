@@ -1,0 +1,222 @@
+{\rtf1\ansi\ansicpg936\cocoartf1187\cocoasubrtf390
+{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;\f1\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red38\green38\blue38;\red234\green234\blue234;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrt\brdrnil \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clmgf \clvertalt \clshdrawnil \clwWidth17360\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx4320
+\clmrg \clvertalt \clshdrawnil \clwWidth17360\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720
+
+\f0\fs24 \cf2      # Xcode\cell 
+\pard\intbl\itap1\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1000\clftsWidth3 \clminw1000 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl200 \clpadr200 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth17360\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qr
+\cf0 \cell 
+\pard\intbl\itap1\pardeftab720
+\cf2 #\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1000\clftsWidth3 \clminw1000 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl200 \clpadr200 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth17360\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qr
+\cf0 \cell 
+\pard\intbl\itap1\pardeftab720
+\cf2 build/\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1000\clftsWidth3 \clminw1000 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl200 \clpadr200 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth17360\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qr
+\cf0 \cell 
+\pard\intbl\itap1\pardeftab720
+\cf2 *.pbxuser\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1000\clftsWidth3 \clminw1000 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl200 \clpadr200 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth17360\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qr
+\cf0 \cell 
+\pard\intbl\itap1\pardeftab720
+\cf2 !default.pbxuser\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1000\clftsWidth3 \clminw1000 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl200 \clpadr200 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth17360\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qr
+\cf0 \cell 
+\pard\intbl\itap1\pardeftab720
+\cf2 *.mode1v3\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1000\clftsWidth3 \clminw1000 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl200 \clpadr200 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth17360\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qr
+\cf0 \cell 
+\pard\intbl\itap1\pardeftab720
+\cf2 !default.mode1v3\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1000\clftsWidth3 \clminw1000 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl200 \clpadr200 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth17360\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qr
+\cf0 \cell 
+\pard\intbl\itap1\pardeftab720
+\cf2 *.mode2v3\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1000\clftsWidth3 \clminw1000 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl200 \clpadr200 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth17360\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qr
+\cf0 \cell 
+\pard\intbl\itap1\pardeftab720
+\cf2 !default.mode2v3\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1000\clftsWidth3 \clminw1000 \clheight270 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl200 \clpadr200 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth17360\clftsWidth3 \clheight270 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qr
+\cf0 \cell 
+\pard\intbl\itap1\pardeftab720
+\cf2 *.perspectivev3\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1000\clftsWidth3 \clminw1000 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl200 \clpadr200 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth17360\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qr
+\cf0 \cell 
+\pard\intbl\itap1\pardeftab720
+\cf2 !default.perspectivev3\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1000\clftsWidth3 \clminw1000 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl200 \clpadr200 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth17360\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qr
+\cf0 \cell 
+\pard\intbl\itap1\pardeftab720
+\cf2 xcuserdata\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1000\clftsWidth3 \clminw1000 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl200 \clpadr200 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth17360\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qr
+\cf0 \cell 
+\pard\intbl\itap1\pardeftab720
+\cf2 *.xccheckout\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1000\clftsWidth3 \clminw1000 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl200 \clpadr200 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth17360\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qr
+\cf0 \cell 
+\pard\intbl\itap1\pardeftab720
+\cf2 *.moved-aside\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1000\clftsWidth3 \clminw1000 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl200 \clpadr200 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth17360\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qr
+\cf0 \cell 
+\pard\intbl\itap1\pardeftab720
+\cf2 DerivedData\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1000\clftsWidth3 \clminw1000 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl200 \clpadr200 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth17360\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qr
+\cf0 \cell 
+\pard\intbl\itap1\pardeftab720
+\cf2 *.hmap\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1000\clftsWidth3 \clminw1000 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl200 \clpadr200 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth17360\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qr
+\cf0 \cell 
+\pard\intbl\itap1\pardeftab720
+\cf2 *.ipa\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1000\clftsWidth3 \clminw1000 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl200 \clpadr200 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth17360\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qr
+\cf0 \cell 
+\pard\intbl\itap1\pardeftab720
+\cf2 *.xcuserstate\
+\pard\intbl\itap1\pardeftab720
+
+\f1\fs28 \cf2 project.xcworkspace/\
+xcuserdata/\
+\pard\intbl\itap1\pardeftab720
+
+\f0\fs24 \cf2 .DS_Store\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth17360\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth17360\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720
+\cf2 \cell 
+\pard\intbl\itap1\pardeftab720
+\cf2 \
+\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1000\clftsWidth3 \clminw1000 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl200 \clpadr200 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth17360\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qr
+\cf0 \cell 
+\pard\intbl\itap1\pardeftab720
+\cf2 # CocoaPods\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1000\clftsWidth3 \clminw1000 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl200 \clpadr200 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth17360\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qr
+\cf0 \cell 
+\pard\intbl\itap1\pardeftab720
+\cf2 #\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1000\clftsWidth3 \clminw1000 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl200 \clpadr200 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth17360\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qr
+\cf0 \cell 
+\pard\intbl\itap1\pardeftab720
+\cf2 # We recommend against adding the Pods directory to your .gitignore. However\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1000\clftsWidth3 \clminw1000 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl200 \clpadr200 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth17360\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qr
+\cf0 \cell 
+\pard\intbl\itap1\pardeftab720
+\cf2 # you should judge for yourself, the pros and cons are mentioned at:\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1000\clftsWidth3 \clminw1000 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl200 \clpadr200 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth17360\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qr
+\cf0 \cell 
+\pard\intbl\itap1\pardeftab720
+\cf2 # http://guides.cocoapods.org/using/using-cocoapods.html#should-i-ignore-the-pods-directory-in-source-control\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1000\clftsWidth3 \clminw1000 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl200 \clpadr200 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth17360\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qr
+\cf0 \cell 
+\pard\intbl\itap1\pardeftab720
+\cf2 #\cell \row
+
+\itap1\trowd \taflags1 \trgaph108\trleft-108 \trbrdrl\brdrnil \trbrdrt\brdrnil \trbrdrr\brdrnil 
+\clvertalt \clshdrawnil \clwWidth1000\clftsWidth3 \clminw1000 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrs\brdrw20\brdrcf3 \clpadl200 \clpadr200 \gaph\cellx4320
+\clvertalt \clshdrawnil \clwWidth17360\clftsWidth3 \clbrdrt\brdrnil \clbrdrl\brdrnil \clbrdrb\brdrnil \clbrdrr\brdrnil \clpadl200 \clpadr200 \gaph\cellx8640
+\pard\intbl\itap1\pardeftab720\qr
+\cf0 \cell 
+\pard\intbl\itap1\pardeftab720
+\cf2 #Pods/\cell \lastrow\row
+}
